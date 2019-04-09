@@ -1,0 +1,80 @@
+{
+  "id": 1343576023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.55111,22.11972,113.55111,22.11972",
+    "geom:latitude":22.11972,
+    "geom:longitude":113.55111,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lai Chi Van",
+    "gn:country_code":"MO",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821279,
+    "gn:latitude":22.11972,
+    "gn:longitude":113.55111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lai Chi Van",
+    "gn:population":0,
+    "gn:timezone":"Asia/Macau",
+    "iso:country":"MO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Povoa\u00e7\u00e3o de Lai Chi Van"
+    ],
+    "name:und_x_variant":[
+        "Lui-Tchi-Van",
+        "Lizhiwan",
+        "Lai Chi Van"
+    ],
+    "name:zho_x_preferred":[
+        "\u8354\u679d\u7897"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669743,
+        102191569,
+        85632695,
+        136253041,
+        890516343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821279
+    },
+    "wof:country":"MO",
+    "wof:geomhash":"d026a0ab46d525931a6871fe05e33920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":890516343,
+            "empire_id":136253041,
+            "locality_id":1343576023,
+            "region_id":85669743
+        }
+    ],
+    "wof:id":1343576023,
+    "wof:lastmodified":1537665741,
+    "wof:name":"Lai Chi Van",
+    "wof:parent_id":890516343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.55111,
+    22.11972,
+    113.55111,
+    22.11972
+],
+  "geometry": {"coordinates":[113.55110999999999,22.11972],"type":"Point"}
+}

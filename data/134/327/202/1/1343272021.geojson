@@ -1,0 +1,71 @@
+{
+  "id": 1343272021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.56778,22.11917,113.56778,22.11917",
+    "geom:latitude":22.11917,
+    "geom:longitude":113.56778,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Heisha",
+    "gn:country_code":"MO",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1821288,
+    "gn:latitude":22.11917,
+    "gn:longitude":113.56778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Heisha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Macau",
+    "iso:country":"MO",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Povoa\u00e7\u00e3o de H\u00e1c S\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Hac-Tsa",
+        "H\u00e1c S\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed1\u6c99"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1821288
+    },
+    "wof:country":"MO",
+    "wof:geomhash":"8cea851992b795ae84f1fd2eb9cae197",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343272021,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343272021,
+    "wof:lastmodified":1537665741,
+    "wof:name":"Heisha",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mo",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.56778,
+    22.11917,
+    113.56778,
+    22.11917
+],
+  "geometry": {"coordinates":[113.56778,22.11917],"type":"Point"}
+}
