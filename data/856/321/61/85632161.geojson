@@ -76,9 +76,6 @@
     "name:cym_x_preferred":[
         "Macao S.A.R., Tseina"
     ],
-    "name:cze_x_preferred":[
-        "Macao"
-    ],
     "name:dan_x_preferred":[
         "Macao"
     ],
@@ -277,9 +274,6 @@
         "Regiun d'administraziun speziala Macao, China"
     ],
     "name:ron_x_preferred":[
-        "Macao"
-    ],
-    "name:rum_x_preferred":[
         "Macao"
     ],
     "name:rus_x_preferred":[
@@ -556,7 +550,7 @@
         "zho",
         "por"
     ],
-    "wof:lastmodified":1544059147,
+    "wof:lastmodified":1561844162,
     "wof:name":"Macau S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

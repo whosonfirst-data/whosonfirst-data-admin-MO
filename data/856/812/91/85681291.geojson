@@ -24,7 +24,7 @@
     "mz:is_current":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":18.0,
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Macao"
     ],
     "name:dan_x_preferred":[
@@ -74,7 +74,7 @@
     "name:pol_x_preferred":[
         "Makau"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Macao"
     ],
     "name:spa_x_preferred":[
@@ -84,9 +84,6 @@
         "Macao"
     ],
     "name:zho_x_preferred":[
-        "\u4e2d\u570b\u6fb3\u9580"
-    ],
-    "name:zho_x_variant":[
         "\u4e2d\u570b\u6fb3\u9580"
     ],
     "qs:a0":"Macau S.A.R",
@@ -158,7 +155,7 @@
         "zho",
         "por"
     ],
-    "wof:lastmodified":1553550600,
+    "wof:lastmodified":1561844162,
     "wof:name":"Macau",
     "wof:parent_id":85632161,
     "wof:placetype":"region",
