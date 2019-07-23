@@ -31,11 +31,17 @@
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:ace_x_preferred":[
+        "Mak\u00e8\u00eb"
+    ],
     "name:afr_x_preferred":[
         "Macau"
     ],
     "name:amh_x_preferred":[
         "\u121b\u12ab\u12a1"
+    ],
+    "name:amh_x_variant":[
+        "\u121b\u12ab\u12cd"
     ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u0627\u0648"
@@ -43,14 +49,41 @@
     "name:arg_x_preferred":[
         "Macau"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0643\u0627\u0648"
+    ],
+    "name:asm_x_preferred":[
+        "\u09ae\u09be\u0995\u09be\u0993"
+    ],
+    "name:ast_x_preferred":[
+        "Mac\u00e1u"
+    ],
+    "name:azb_x_preferred":[
+        "\u0645\u0627\u06a9\u0627\u0626\u0648"
+    ],
     "name:aze_x_preferred":[
         "Makao"
+    ],
+    "name:bak_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:bar_x_preferred":[
+        "Macao"
+    ],
+    "name:bcl_x_preferred":[
+        "Macau"
     ],
     "name:bel_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
     ],
+    "name:bel_x_variant":[
+        "\u041c\u0430\u043a\u0430\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u0995\u09be\u0993"
+    ],
+    "name:ben_x_variant":[
+        "\u09ae\u09be\u0995\u09be\u0993"
     ],
     "name:bod_x_preferred":[
         "\u0f58\u0f7a\u0f0b\u0f40\u0f60\u0f7c\u0f0d"
@@ -58,8 +91,14 @@
     "name:bos_x_preferred":[
         "Makao"
     ],
+    "name:bpy_x_preferred":[
+        "\u09ae\u09be\u0995\u09be\u0989"
+    ],
     "name:bre_x_preferred":[
         "Macau"
+    ],
+    "name:bre_x_variant":[
+        "Makao"
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
@@ -70,11 +109,32 @@
     "name:cat_x_variant":[
         "Macao"
     ],
+    "name:cdo_x_preferred":[
+        "\u00d3\u0324-mu\u00f2ng"
+    ],
+    "name:ceb_x_preferred":[
+        "Macau"
+    ],
     "name:ces_x_preferred":[
         "Macao"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:chv_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u0627\u06a9\u0627\u0626\u06c6"
+    ],
+    "name:cos_x_preferred":[
+        "Macau"
+    ],
     "name:cym_x_preferred":[
         "Macao S.A.R., Tseina"
+    ],
+    "name:cym_x_variant":[
+        "Macau"
     ],
     "name:dan_x_preferred":[
         "Macao"
@@ -85,6 +145,12 @@
     "name:deu_x_variant":[
         "Makao",
         "Macau"
+    ],
+    "name:div_x_preferred":[
+        "\u0789\u07a6\u0786\u07a7\u0787\u07ab"
+    ],
+    "name:dty_x_preferred":[
+        "\u092e\u0915\u093e\u0909"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03ba\u03ac\u03bf\u03c5"
@@ -111,16 +177,24 @@
         "Aomen"
     ],
     "name:est_x_variant":[
-        "Macao"
+        "Macao",
+        "Macau"
     ],
     "name:eus_x_preferred":[
         "Macau"
     ],
     "name:eus_x_variant":[
-        "Makau"
+        "Makau",
+        "Macao"
     ],
     "name:ewe_x_preferred":[
         "Macau nutome"
+    ],
+    "name:ewe_x_variant":[
+        "Macau"
+    ],
+    "name:ext_x_preferred":[
+        "Macau"
     ],
     "name:fao_x_preferred":[
         "Makao"
@@ -134,17 +208,42 @@
     "name:fra_x_preferred":[
         "Macao"
     ],
+    "name:fry_x_preferred":[
+        "Makao"
+    ],
+    "name:gag_x_preferred":[
+        "Makao"
+    ],
+    "name:gan_x_preferred":[
+        "\u6fb3\u9580"
+    ],
+    "name:gla_x_preferred":[
+        "Macau"
+    ],
     "name:gle_x_preferred":[
         "Mac\u00e1\u00f3"
+    ],
+    "name:gle_x_variant":[
+        "Macau"
     ],
     "name:glg_x_preferred":[
         "Macau - \u6fb3\u95e8"
     ],
     "name:glg_x_variant":[
-        "Macau"
+        "Macau",
+        "Macau - \u6fb3\u9580"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0a95\u0abe\u0a93"
+    ],
+    "name:guj_x_variant":[
+        "\u0aae\u0a95\u0abe\u0a89"
+    ],
+    "name:hak_x_preferred":[
+        "\u00c0u-m\u00fbn"
+    ],
+    "name:hau_x_preferred":[
+        "Macau"
     ],
     "name:hbs_x_preferred":[
         "Makao"
@@ -152,8 +251,14 @@
     "name:heb_x_preferred":[
         "\u05de\u05e7\u05d0\u05d5"
     ],
+    "name:hif_x_preferred":[
+        "Macau"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0915\u093e\u0913"
+    ],
+    "name:hin_x_variant":[
+        "\u092e\u0915\u093e\u0909"
     ],
     "name:hrv_x_preferred":[
         "Makao"
@@ -161,7 +266,16 @@
     "name:hun_x_preferred":[
         "Maka\u00f3"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u056f\u0561\u0578\u0582"
+    ],
     "name:ido_x_preferred":[
+        "Macau"
+    ],
+    "name:ido_x_variant":[
+        "Makau"
+    ],
+    "name:ilo_x_preferred":[
         "Macau"
     ],
     "name:ina_x_preferred":[
@@ -182,6 +296,15 @@
     "name:ita_x_preferred":[
         "Macao"
     ],
+    "name:jam_x_preferred":[
+        "Makow"
+    ],
+    "name:jav_x_preferred":[
+        "Makau"
+    ],
+    "name:jbo_x_preferred":[
+        "lo gugdemu'o"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30ab\u30aa"
     ],
@@ -189,14 +312,38 @@
         "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u30de\u30ab\u30aa\u7279\u5225\u884c\u653f\u533a",
         "\u6fb3\u9580"
     ],
+    "name:kaa_x_preferred":[
+        "Makao"
+    ],
     "name:kal_x_preferred":[
         "Macao"
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0c96\u0cbe\u0cb5\u0ccd"
     ],
+    "name:kan_x_variant":[
+        "\u0cae\u0c95\u0cbe\u0cb5\u0cc1"
+    ],
     "name:kat_x_preferred":[
         "\u10db\u10d0\u10d9\u10d0\u10dd"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u0443\u043c\u044b\u043d"
+    ],
+    "name:kbp_x_preferred":[
+        "Maka\u028a"
+    ],
+    "name:khm_x_preferred":[
+        "\u1798\u17c9\u17b6\u1780\u17b6\u179c"
+    ],
+    "name:kik_x_preferred":[
+        "Macau"
+    ],
+    "name:kin_x_preferred":[
+        "Makawo"
+    ],
+    "name:kir_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
     ],
     "name:kor_x_preferred":[
         "\ub9c8\uce74\uc624"
@@ -204,11 +351,32 @@
     "name:kur_x_preferred":[
         "\u0645\u0627\u06a9\u0627\u0648"
     ],
+    "name:lad_x_preferred":[
+        "Makao"
+    ],
     "name:lao_x_preferred":[
         "\u0ea1\u0eb2\u0ec0\u0e81\u0ebb\u0ec9\u0eb2"
     ],
+    "name:lat_x_preferred":[
+        "Macaum"
+    ],
     "name:lav_x_preferred":[
         "Makao"
+    ],
+    "name:lez_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:lfn_x_preferred":[
+        "Macau"
+    ],
+    "name:lij_x_preferred":[
+        "Macao"
+    ],
+    "name:lim_x_preferred":[
+        "Macau"
+    ],
+    "name:lin_x_preferred":[
+        "Makau"
     ],
     "name:lit_x_preferred":[
         "Makao"
@@ -216,14 +384,29 @@
     "name:lit_x_variant":[
         "Macao"
     ],
+    "name:lrc_x_preferred":[
+        "\u0645\u0627\u06a9\u0627\u0626\u0648"
+    ],
     "name:ltz_x_preferred":[
         "Macau"
+    ],
+    "name:lzh_x_preferred":[
+        "\u6fb3\u9580"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0915\u093e\u0909"
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d15\u0d4d\u0d15\u0d3e\u0d35\u0d4b"
     ],
+    "name:mal_x_variant":[
+        "\u0d2e\u0d15\u0d57"
+    ],
     "name:mar_x_preferred":[
         "\u092e\u0915\u093e\u090a"
+    ],
+    "name:mar_x_variant":[
+        "\u092e\u0915\u093e\u0913"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
@@ -231,17 +414,36 @@
     "name:mlt_x_preferred":[
         "Macao"
     ],
+    "name:mlt_x_variant":[
+        "Makaw"
+    ],
+    "name:mon_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
     "name:msa_x_preferred":[
         "Macau"
     ],
     "name:msa_x_variant":[
-        "Macao S.A.R., China"
+        "Macao S.A.R., China",
+        "Makau"
+    ],
+    "name:mwl_x_preferred":[
+        "Macau"
     ],
     "name:mya_x_preferred":[
         "\u1019\u1000\u102c\u1021\u102d\u102f"
     ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0627\u06a9\u0627\u0626\u0648"
+    ],
+    "name:nan_x_preferred":[
+        "\u00d2-mn\u0302g"
+    ],
     "name:nep_x_preferred":[
         "\u092e\u0915\u093e\u0935\u094b"
+    ],
+    "name:nep_x_variant":[
+        "\u092e\u0915\u093e\u0909"
     ],
     "name:nld_x_preferred":[
         "Macau"
@@ -258,8 +460,32 @@
     "name:nor_x_preferred":[
         "Macao"
     ],
+    "name:nov_x_preferred":[
+        "Makau"
+    ],
+    "name:oci_x_preferred":[
+        "Macau"
+    ],
     "name:ori_x_preferred":[
         "\u0b2e\u0b3e\u0b15\u0b3e\u0b09 SAR \u0b1a\u0b3f\u0b28\u0b4d"
+    ],
+    "name:ori_x_variant":[
+        "\u0b2e\u0b15\u0b3e\u0b09"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:pam_x_preferred":[
+        "Macau"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2e\u0a15\u0a3e\u0a09"
+    ],
+    "name:pcd_x_preferred":[
+        "Macao"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0645\u06a9\u0627\u0624"
     ],
     "name:pol_x_preferred":[
         "Makau"
@@ -269,6 +495,9 @@
     ],
     "name:por_x_variant":[
         "Regi\u00e3o Administrativa Especial de Macau"
+    ],
+    "name:que_x_preferred":[
+        "Macau"
     ],
     "name:roh_x_preferred":[
         "Regiun d'administraziun speziala Macao, China"
@@ -282,6 +511,15 @@
     "name:rus_x_variant":[
         "\u0410\u043e\u043c\u044b\u043d\u044c"
     ],
+    "name:scn_x_preferred":[
+        "Macau"
+    ],
+    "name:sco_x_preferred":[
+        "Macau"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0d9a\u0dcf\u0dc0\u0ddd"
+    ],
     "name:slk_x_preferred":[
         "Macao"
     ],
@@ -294,8 +532,17 @@
     "name:sme_x_preferred":[
         "Mak\u00e1o"
     ],
+    "name:som_x_preferred":[
+        "Makaw"
+    ],
     "name:spa_x_preferred":[
         "Macao"
+    ],
+    "name:sqi_x_preferred":[
+        "Makao"
+    ],
+    "name:srd_x_preferred":[
+        "Macau"
     ],
     "name:srp_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
@@ -303,17 +550,38 @@
     "name:srp_x_variant":[
         "\u041c\u0430\u043a\u0430\u0443"
     ],
+    "name:sun_x_preferred":[
+        "Makau"
+    ],
     "name:swa_x_preferred":[
         "Macau"
     ],
     "name:swe_x_preferred":[
         "Macao"
     ],
+    "name:szl_x_preferred":[
+        "Makau"
+    ],
     "name:tam_x_preferred":[
         "\u0bae\u0b95\u0bbe\u0bb5\u0bcb"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bc1"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c15\u0c3e\u0c35\u0c4d"
+    ],
+    "name:tel_x_variant":[
+        "\u0c2e\u0c15\u0c3e\u0c35\u0c41"
+    ],
+    "name:tet_x_preferred":[
+        "Makau"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u043e\u043c\u0438\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "Makaw"
     ],
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e40\u0e01\u0e4a\u0e32"
@@ -327,6 +595,9 @@
     "name:ton_x_preferred":[
         "Makau"
     ],
+    "name:tuk_x_preferred":[
+        "Makao"
+    ],
     "name:tur_x_preferred":[
         "Macau"
     ],
@@ -339,17 +610,44 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
     ],
+    "name:ukr_x_variant":[
+        "\u0410\u043e\u043c\u0438\u043d\u044c"
+    ],
     "name:unk_x_variant":[
         "Aomen Tebie Xingzhengqu"
     ],
     "name:urd_x_preferred":[
         "\u0645\u06a9\u0627\u0624"
     ],
+    "name:uzb_x_preferred":[
+        "Makao"
+    ],
     "name:vie_x_preferred":[
         "Ma Cao"
     ],
     "name:vie_x_variant":[
         "Macao"
+    ],
+    "name:war_x_preferred":[
+        "Macau"
+    ],
+    "name:wol_x_preferred":[
+        "Makaaw"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6fb3\u95e8"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10db\u10d0\u10d9\u10d0\u10dd"
+    ],
+    "name:yor_x_preferred":[
+        "M\u00e0k\u00e1\u00f9"
+    ],
+    "name:yue_x_preferred":[
+        "\u6fb3\u9580"
+    ],
+    "name:zha_x_preferred":[
+        "Aumwnz"
     ],
     "name:zho_x_preferred":[
         "\u6fb3\u95e8"
@@ -550,7 +848,7 @@
         "zho",
         "por"
     ],
-    "wof:lastmodified":1561844162,
+    "wof:lastmodified":1563280913,
     "wof:name":"Macau S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
