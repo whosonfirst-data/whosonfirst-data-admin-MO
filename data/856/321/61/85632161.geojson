@@ -20,6 +20,9 @@
     "label:eng_x_preferred_placetype":[
         "special administrative region"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MO"
+    ],
     "label:zho_x_preferred_placetype":[
         "\u7279\u522b\u884c\u653f\u533a"
     ],
@@ -848,7 +851,7 @@
         "zho",
         "por"
     ],
-    "wof:lastmodified":1563280913,
+    "wof:lastmodified":1565728060,
     "wof:name":"Macau S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

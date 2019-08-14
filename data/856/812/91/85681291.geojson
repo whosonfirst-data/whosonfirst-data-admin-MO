@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MA"
+    ],
     "lbl:latitude":22.129735,
     "lbl:longitude":113.556038,
     "mps:latitude":22.129735,
@@ -559,9 +562,6 @@
         }
     ],
     "wof:id":85681291,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "zho",
         "por"
@@ -570,7 +570,7 @@
         "zho",
         "por"
     ],
-    "wof:lastmodified":1563280913,
+    "wof:lastmodified":1565728060,
     "wof:name":"Macau",
     "wof:parent_id":85632161,
     "wof:placetype":"region",
