@@ -12,10 +12,13 @@
     "iso:country":"MO",
     "lbl:latitude":22.158061,
     "lbl:longitude":113.556447,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.158061,
     "mps:longitude":113.556447,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Macao"
     ],
@@ -34,7 +37,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632161,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":102027981,
-    "wof:lastmodified":1536947520,
+    "wof:lastmodified":1566611804,
     "wof:name":"Macao",
     "wof:parent_id":890516343,
     "wof:placetype":"locality",
