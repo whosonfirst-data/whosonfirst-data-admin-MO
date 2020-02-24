@@ -836,6 +836,9 @@
     ],
     "wof:country":"MO",
     "wof:country_alpha3":"MAC",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"f771682454c995c209503eff6ed71bb8",
     "wof:hierarchy":[
         {
@@ -853,7 +856,7 @@
         "zho",
         "por"
     ],
-    "wof:lastmodified":1566611805,
+    "wof:lastmodified":1582379116,
     "wof:name":"Macau S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
