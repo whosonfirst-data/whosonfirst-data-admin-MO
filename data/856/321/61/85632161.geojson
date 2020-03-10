@@ -807,9 +807,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Macau",
-        "digitalenvoy:country_code":[
-            446
-        ],
+        "digitalenvoy:country_code":446,
         "fb:id":"en.macau",
         "fifa:id":"MAC",
         "fips:code":"MC",
@@ -859,7 +857,7 @@
         "zho",
         "por"
     ],
-    "wof:lastmodified":1583529176,
+    "wof:lastmodified":1583797383,
     "wof:name":"Macau S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
