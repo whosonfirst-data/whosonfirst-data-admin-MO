@@ -42,11 +42,23 @@
     "name:afr_x_preferred":[
         "Macau"
     ],
+    "name:alt_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
     "name:amh_x_preferred":[
         "\u121b\u12ab\u12a1"
     ],
     "name:amh_x_variant":[
         "\u121b\u12ab\u12cd"
+    ],
+    "name:ami_x_preferred":[
+        "Macau"
+    ],
+    "name:ang_x_preferred":[
+        "Macau"
+    ],
+    "name:anp_x_preferred":[
+        "\u092e\u0915\u093e\u0909"
     ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u0643\u0627\u0648"
@@ -71,6 +83,9 @@
     ],
     "name:bak_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:ban_x_preferred":[
+        "Makau"
     ],
     "name:bar_x_preferred":[
         "Macao"
@@ -105,7 +120,13 @@
     "name:bre_x_variant":[
         "Makao"
     ],
+    "name:bug_x_preferred":[
+        "Makau"
+    ],
     "name:bul_x_preferred":[
+        "\u041c\u0430\u043a\u0430\u043e"
+    ],
+    "name:bxr_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
     ],
     "name:cat_x_preferred":[
@@ -126,6 +147,9 @@
     "name:che_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
     ],
+    "name:chr_x_preferred":[
+        "\u13b9\u13a7\u13a3"
+    ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
     ],
@@ -135,10 +159,16 @@
     "name:cos_x_preferred":[
         "Macau"
     ],
+    "name:crh_x_preferred":[
+        "Makau"
+    ],
     "name:cym_x_preferred":[
         "Macao S.A.R., Tseina"
     ],
     "name:cym_x_variant":[
+        "Macau"
+    ],
+    "name:dag_x_preferred":[
         "Macau"
     ],
     "name:dan_x_preferred":[
@@ -159,6 +189,9 @@
     ],
     "name:dty_x_preferred":[
         "\u092e\u0915\u093e\u0909"
+    ],
+    "name:dzo_x_preferred":[
+        "\u0f58\u0f0b\u0f40\u0f60\u0f7c"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03ba\u03ac\u03bf\u03c5"
@@ -262,7 +295,13 @@
     "name:hak_x_preferred":[
         "\u00c0u-m\u00fbn"
     ],
+    "name:hat_x_preferred":[
+        "Makawo"
+    ],
     "name:hau_x_preferred":[
+        "Macau"
+    ],
+    "name:haw_x_preferred":[
         "Macau"
     ],
     "name:hbs_x_preferred":[
@@ -289,11 +328,20 @@
     "name:hye_x_preferred":[
         "\u0544\u0561\u056f\u0561\u0578\u0582"
     ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u056f\u0561\u0578"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0561\u0584\u0561\u0578"
+    ],
     "name:ido_x_preferred":[
         "Macau"
     ],
     "name:ido_x_variant":[
         "Makau"
+    ],
+    "name:iku_x_preferred":[
+        "\u14aa\u1472\u1405"
     ],
     "name:ilo_x_preferred":[
         "Macau"
@@ -338,6 +386,9 @@
     "name:kal_x_preferred":[
         "Macao"
     ],
+    "name:kal_x_variant":[
+        "Macau"
+    ],
     "name:kan_x_preferred":[
         "\u0cae\u0c96\u0cbe\u0cb5\u0ccd"
     ],
@@ -352,6 +403,9 @@
     ],
     "name:kbp_x_preferred":[
         "Maka\u028a"
+    ],
+    "name:kcg_x_preferred":[
+        "Ma\u0331ka\u0331u"
     ],
     "name:khm_x_preferred":[
         "\u1798\u17c9\u17b6\u1780\u17b6\u179c"
@@ -370,6 +424,9 @@
     ],
     "name:kur_x_preferred":[
         "\u0645\u0627\u06a9\u0627\u0648"
+    ],
+    "name:kur_x_variant":[
+        "Makao"
     ],
     "name:lad_x_preferred":[
         "Makao"
@@ -404,6 +461,9 @@
     "name:lit_x_variant":[
         "Macao"
     ],
+    "name:lmo_x_preferred":[
+        "Macao"
+    ],
     "name:lrc_x_preferred":[
         "\u0645\u0627\u06a9\u0627\u0626\u0648"
     ],
@@ -412,6 +472,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u6fb3\u9580"
+    ],
+    "name:mad_x_preferred":[
+        "Makau"
     ],
     "name:mai_x_preferred":[
         "\u092e\u0915\u093e\u0909"
@@ -436,6 +499,9 @@
     ],
     "name:mlt_x_variant":[
         "Makaw"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc3\uabc0\uabe5\uabce"
     ],
     "name:mon_x_preferred":[
         "\u041c\u0430\u043a\u0430\u043e"
@@ -525,6 +591,9 @@
     "name:por_x_variant":[
         "Regi\u00e3o Administrativa Especial de Macau"
     ],
+    "name:pus_x_preferred":[
+        "\u0645\u06a9\u0627\u0648"
+    ],
     "name:que_x_preferred":[
         "Macau"
     ],
@@ -532,6 +601,9 @@
         "Regiun d'administraziun speziala Macao, China"
     ],
     "name:ron_x_preferred":[
+        "Macao"
+    ],
+    "name:rup_x_preferred":[
         "Macao"
     ],
     "name:rus_x_preferred":[
@@ -549,6 +621,9 @@
     "name:sco_x_preferred":[
         "Macau"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u1083\u1087\u1075\u1062\u101d\u103a\u1088"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0d9a\u0dcf\u0dc0\u0ddd"
     ],
@@ -561,8 +636,17 @@
     "name:slv_x_preferred":[
         "Macao"
     ],
+    "name:slv_x_variant":[
+        "Makav"
+    ],
     "name:sme_x_preferred":[
         "Mak\u00e1o"
+    ],
+    "name:sna_x_preferred":[
+        "Makawo"
+    ],
+    "name:snd_x_preferred":[
+        "\u0645\u064a\u06aa\u0627\u0626\u0648"
     ],
     "name:som_x_preferred":[
         "Makaw"
@@ -603,6 +687,9 @@
     "name:tam_x_variant":[
         "\u0bae\u0b95\u0bcd\u0b95\u0bbe\u0bb5\u0bc1"
     ],
+    "name:tay_x_preferred":[
+        "Macau"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c15\u0c3e\u0c35\u0c4d"
     ],
@@ -627,8 +714,17 @@
     "name:tir_x_preferred":[
         "\u121b\u12ab\u12ce"
     ],
+    "name:tir_x_variant":[
+        "\u121b\u12ab\u12cd"
+    ],
     "name:ton_x_preferred":[
         "Makau"
+    ],
+    "name:tpi_x_preferred":[
+        "Makau"
+    ],
+    "name:trv_x_preferred":[
+        "Macau"
     ],
     "name:tuk_x_preferred":[
         "Makao"
@@ -657,6 +753,9 @@
     "name:uzb_x_preferred":[
         "Makao"
     ],
+    "name:vec_x_preferred":[
+        "Macao"
+    ],
     "name:vie_x_preferred":[
         "Ma Cao"
     ],
@@ -671,6 +770,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u6fb3\u95e8"
+    ],
+    "name:xho_x_preferred":[
+        "Macau"
     ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10d9\u10d0\u10dd"
@@ -955,7 +1057,7 @@
         "zho",
         "por"
     ],
-    "wof:lastmodified":1617827636,
+    "wof:lastmodified":1690939772,
     "wof:name":"Macau S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
