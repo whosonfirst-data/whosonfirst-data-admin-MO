@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002313,
-    "geom:area_square_m":26489574.042978,
+    "geom:area_square_m":26489574.042973,
     "geom:bbox":"113.528492,22.109444,113.591269,22.217153",
     "geom:latitude":22.158225,
     "geom:longitude":113.557709,
@@ -981,7 +981,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"wd",
+    "src:population_year":"2022",
     "statoids:dial":"853",
     "statoids:ds":"MO",
     "statoids:fifa":"MAC",
@@ -1040,7 +1041,7 @@
     "wof:geom_alt":[
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"c062726ba1abb55e0eb959834f14574a",
+    "wof:geomhash":"d52b323ba81d6d7b1ec14cc3904f377f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1057,12 +1058,12 @@
         "zho",
         "por"
     ],
-    "wof:lastmodified":1690939772,
+    "wof:lastmodified":1694492108,
     "wof:name":"Macau S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":449198,
-    "wof:population_rank":10,
+    "wof:population":672800,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mo",
     "wof:shortcode":"MO",
     "wof:superseded_by":[],
