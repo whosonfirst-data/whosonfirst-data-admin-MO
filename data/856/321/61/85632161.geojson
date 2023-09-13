@@ -982,7 +982,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wd",
-    "src:population_year":"2022",
+    "src:population_date":"2022",
     "statoids:dial":"853",
     "statoids:ds":"MO",
     "statoids:fifa":"MAC",
@@ -1058,7 +1058,7 @@
         "zho",
         "por"
     ],
-    "wof:lastmodified":1694492108,
+    "wof:lastmodified":1694639561,
     "wof:name":"Macau S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
