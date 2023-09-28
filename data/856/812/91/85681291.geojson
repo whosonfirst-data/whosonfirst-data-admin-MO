@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002633,
-    "geom:area_square_m":30156426.589255,
+    "geom:area_square_m":30156577.897198,
     "geom:bbox":"113.519867,22.105373,113.587494,22.220771",
     "geom:latitude":22.157785,
     "geom:longitude":113.550197,
@@ -679,16 +679,18 @@
         "fips:code":"MC02",
         "gp:id":20070017,
         "hasc:id":"MO.MA",
+        "iso:code":"MO-M",
         "iso:id":"MO-M",
         "qs_pg:id":891785,
         "wd:id":"Q14773"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         85632161,
         102027981
     ],
     "wof:country":"MO",
-    "wof:geomhash":"c926e822cc1439a4cf08f9bd689c2460",
+    "wof:geomhash":"7890ae45495046db5e85cff8573f5a44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -706,7 +708,7 @@
         "zho",
         "por"
     ],
-    "wof:lastmodified":1690939772,
+    "wof:lastmodified":1695884325,
     "wof:name":"Macau",
     "wof:parent_id":85632161,
     "wof:placetype":"region",
