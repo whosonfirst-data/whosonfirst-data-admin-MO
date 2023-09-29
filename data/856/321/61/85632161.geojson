@@ -1017,6 +1017,7 @@
         "hasc:id":"MO",
         "icao:code":"B-M",
         "ioc:id":"MAC",
+        "iso:code":"MO",
         "iso:id":"CN-MO",
         "itu:id":"MAC",
         "m49:code":"446",
@@ -1028,6 +1029,7 @@
         "wd:id":"Q14773",
         "wmo:id":"MU"
     },
+    "wof:concordances_official":"iso:code",
     "wof:controlled":[
         "wof:hierarchy",
         "wof:parent_id"
@@ -1058,7 +1060,7 @@
         "zho",
         "por"
     ],
-    "wof:lastmodified":1694639561,
+    "wof:lastmodified":1695881220,
     "wof:name":"Macau S.A.R.",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
